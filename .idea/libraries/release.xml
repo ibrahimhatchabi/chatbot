@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/transforms/preDex/release/3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/transforms/preDex/release/5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/transforms/preDex/release/0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/transforms/preDex/release/2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
